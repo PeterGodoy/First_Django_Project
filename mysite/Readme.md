@@ -1,0 +1,1 @@
+![GitHub Logo](/mysite/images/First_Django_Project_SS.png)
